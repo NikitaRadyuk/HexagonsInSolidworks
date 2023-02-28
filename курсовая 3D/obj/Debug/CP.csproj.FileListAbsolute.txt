@@ -1,0 +1,31 @@
+D:\Everything with SolidWorks\Course Project\CW\bin\Debug\CW.exe.config
+D:\Everything with SolidWorks\Course Project\CW\bin\Debug\CW.exe
+D:\Everything with SolidWorks\Course Project\CW\bin\Debug\CW.pdb
+D:\Everything with SolidWorks\Course Project\CW\obj\Debug\CP.csproj.AssemblyReference.cache
+D:\Everything with SolidWorks\Course Project\CW\obj\Debug\CW.Form1.resources
+D:\Everything with SolidWorks\Course Project\CW\obj\Debug\CW.Properties.Resources.resources
+D:\Everything with SolidWorks\Course Project\CW\obj\Debug\CP.csproj.GenerateResource.cache
+D:\Everything with SolidWorks\Course Project\CW\obj\Debug\CP.csproj.CoreCompileInputs.cache
+D:\Everything with SolidWorks\Course Project\CW\obj\Debug\CW.exe
+D:\Everything with SolidWorks\Course Project\CW\obj\Debug\CW.pdb
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\bin\Debug\CW.exe.config
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\bin\Debug\CW.exe
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\bin\Debug\CW.pdb
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\obj\Debug\CP.csproj.AssemblyReference.cache
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\obj\Debug\CW.Form1.resources
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\obj\Debug\CW.Properties.Resources.resources
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\obj\Debug\CP.csproj.GenerateResource.cache
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\obj\Debug\CP.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\obj\Debug\CW.exe
+C:\Users\пользователь\OneDrive\Рабочий стол\uteba\3 курс\3D\CW\obj\Debug\CW.pdb
+C:\Users\Никита\Desktop\курсовая 3D\obj\Debug\CP.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\курсовая 3D\obj\Debug\CP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\курсовая 3D\obj\Debug\CW.Form1.resources
+C:\Users\Никита\Desktop\курсовая 3D\obj\Debug\CW.Properties.Resources.resources
+C:\Users\Никита\Desktop\курсовая 3D\obj\Debug\CP.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\курсовая 3D\obj\Debug\CP.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\курсовая 3D\obj\Debug\CW.exe
+C:\Users\Никита\Desktop\курсовая 3D\obj\Debug\CW.pdb
+C:\Users\Никита\Desktop\курсовая 3D\bin\Debug\CW.exe.config
+C:\Users\Никита\Desktop\курсовая 3D\bin\Debug\CW.exe
+C:\Users\Никита\Desktop\курсовая 3D\bin\Debug\CW.pdb
